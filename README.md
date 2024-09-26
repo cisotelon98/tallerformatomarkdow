@@ -1,6 +1,6 @@
 # Comparativo de codigos nodos
 
-En este comparativo Andres molina y carlos sotelo escogieron los Koffman, Elliot B.; Wolfgang, Paul A. T. Data structures : abstraction and design using Java. Wiley 2016. Capítulo 2.5, página 77.  y  libros Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser. Data Structures and Algorithms in Java. Wiley 2014. Capítulo 3.2, página 122.. respectivamente.
+En este comparativo Andres molina y carlos sotelo escogieron los libros Koffman, Elliot B.; Wolfgang, Paul A. T. Data structures : abstraction and design using Java. Wiley 2016. Capítulo 2.5, página 77.  y  libros Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser. Data Structures and Algorithms in Java. Wiley 2014. Capítulo 3.2, página 122.. respectivamente.
 
 Compilamos y comparamos los codigos opteninedo como resultado lo siguiente:
 ## Estructura General
